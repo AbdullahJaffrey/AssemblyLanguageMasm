@@ -14,4 +14,10 @@ Full Course of Assembly Language in English: (masm)
 
 https://www.youtube.com/watch?v=vtWKlgEi9js&list=PLXYpRL4SQpMnHL0c6PwSKAHCId3F6uVwi&index=1
 
+Editor Used for masm: 
+
+* DosBox86
+
+https://www.dosbox.com/download.php?main=1
+
 Regards. 🧡
